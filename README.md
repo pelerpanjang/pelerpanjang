@@ -4,7 +4,6 @@
 &center=true&width=500&height=50"></a>
 </p>
 
-## Sedang belajar Ruby dan Perl
 <br>
 
 
